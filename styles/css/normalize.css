@@ -184,6 +184,9 @@ sub {
 
 img {
     border: 0;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
 }
 
 /**
